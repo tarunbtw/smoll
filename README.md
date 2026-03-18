@@ -1,4 +1,4 @@
-## A simple url shortner.
+## A simple url shortner
 
 ```
 npm run dev
