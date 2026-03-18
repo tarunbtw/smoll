@@ -1,5 +1,1 @@
-## A simple url shortner
-
-```
-npm run dev
-```
+## Url shortner
